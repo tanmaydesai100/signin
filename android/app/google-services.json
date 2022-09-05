@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "794113647517",
+    "project_id": "loginform-6a3e9",
+    "storage_bucket": "loginform-6a3e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794113647517:android:71d568ecca921b1e900574",
+        "android_client_info": {
+          "package_name": "com.awesomerntsproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794113647517-e08tb29sniguue4u7u4apq96go6q30c2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVJvsgwIA7Xsc-0knxfcN_rICpN9S-GsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794113647517-e08tb29sniguue4u7u4apq96go6q30c2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
